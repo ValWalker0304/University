@@ -1,155 +1,34 @@
-# University
-This repository contains a mirror of my contributions from the University of Twente’s GitLab platform, where I worked on various technical computer science projects.
-Commit 1 made on 2023-11-28
-Commit 1 made on 2024-04-10
-Commit 2 made on 2024-04-10
-Commit 3 made on 2024-04-10
-Commit 4 made on 2024-04-10
-Commit 1 made on 2024-04-11
-Commit 1 made on 2024-04-12
-Commit 2 made on 2024-04-12
-Commit 3 made on 2024-04-12
-Commit 1 made on 2024-04-13
-Commit 2 made on 2024-04-13
-Commit 3 made on 2024-04-13
-Commit 4 made on 2024-04-13
-Commit 1 made on 2024-04-14
-Commit 2 made on 2024-04-14
-Commit 3 made on 2024-04-14
-Commit 1 made on 2024-04-15
-Commit 2 made on 2024-04-15
-Commit 3 made on 2024-04-15
-Commit 4 made on 2024-04-15
-Commit 5 made on 2024-04-15
-Commit 1 made on 2024-04-16
-Commit 2 made on 2024-04-16
-Commit 3 made on 2024-04-16
-Commit 1 made on 2024-04-17
-Commit 2 made on 2024-04-17
-Commit 3 made on 2024-04-17
-Commit 1 made on 2024-04-18
-Commit 2 made on 2024-04-18
-Commit 3 made on 2024-04-18
-Commit 4 made on 2024-04-18
-Commit 5 made on 2024-04-18
-Commit 1 made on 2024-04-19
-Commit 2 made on 2024-04-19
-Commit 3 made on 2024-04-19
-Commit 4 made on 2024-04-19
-Commit 5 made on 2024-04-19
-Commit 1 made on 2024-04-20
-Commit 2 made on 2024-04-20
-Commit 3 made on 2024-04-20
-Commit 1 made on 2024-05-02
-Commit 1 made on 2024-05-06
-Commit 2 made on 2024-05-06
-Commit 1 made on 2024-05-07
-Commit 2 made on 2024-05-07
-Commit 3 made on 2024-05-07
-Commit 1 made on 2024-05-04
-Commit 2 made on 2024-05-04
-Commit 3 made on 2024-05-04
-Commit 1 made on 2024-05-12
-Commit 2 made on 2024-05-12
-Commit 1 made on 2024-05-15
-Commit 2 made on 2024-05-15
-Commit 3 made on 2024-05-15
-Commit 4 made on 2024-05-15
-Commit 5 made on 2024-05-15
-Commit 1 made on 2024-05-23
-Commit 2 made on 2024-05-23
-Commit 3 made on 2024-05-23
-Commit 4 made on 2024-05-23
-Commit 1 made on 2024-05-24
-Commit 2 made on 2024-05-24
-Commit 3 made on 2024-05-24
-Commit 1 made on 2024-05-27
-Commit 1 made on 2024-05-29
-Commit 2 made on 2024-05-29
-Commit 3 made on 2024-05-29
-Commit 4 made on 2024-05-29
-Commit 1 made on 2024-06-03
-Commit 2 made on 2024-06-03
-Commit 1 made on 2024-06-04
-Commit 2 made on 2024-06-04
-Commit 3 made on 2024-06-04
-Commit 1 made on 2024-06-16
-Commit 2 made on 2024-06-16
-Commit 3 made on 2024-06-16
-Commit 4 made on 2024-06-16
-Commit 1 made on 2024-06-17
-Commit 2 made on 2024-06-17
-Commit 3 made on 2024-06-17
-Commit 1 made on 2024-06-18
-Commit 1 made on 2024-06-19
-Commit 2 made on 2024-06-19
-Commit 1 made on 2024-06-20
-Commit 2 made on 2024-06-20
-Commit 3 made on 2024-06-20
-Commit 4 made on 2024-06-20
-Commit 5 made on 2024-06-20
-Commit 1 made on 2024-06-21
-Commit 2 made on 2024-06-21
-Commit 1 made on 2024-06-22
-Commit 2 made on 2024-06-22
-Commit 3 made on 2024-06-22
-Commit 4 made on 2024-06-22
-Commit 1 made on 2024-06-23
-Commit 2 made on 2024-06-23
-Commit 1 made on 2024-06-24
-Commit 2 made on 2024-06-24
-Commit 1 made on 2024-06-25
-Commit 2 made on 2024-06-25
-Commit 3 made on 2024-06-25
-Commit 4 made on 2024-06-25
-Commit 5 made on 2024-06-25
-Commit 1 made on 2024-06-26
-Commit 2 made on 2024-06-26
-Commit 3 made on 2024-06-26
-Commit 1 made on 2024-06-27
-Commit 2 made on 2024-06-27
-Commit 3 made on 2024-06-27
-Commit 4 made on 2024-06-27
-Commit 1 made on 2024-06-28
-Commit 2 made on 2024-06-28
-Commit 3 made on 2024-06-28
-Commit 4 made on 2024-06-28
-Commit 1 made on 2024-06-29
-Commit 2 made on 2024-06-29
-Commit 1 made on 2024-07-02
-Commit 1 made on 2024-07-03
-Commit 1 made on 2024-09-16
-Commit 2 made on 2024-09-16
-Commit 3 made on 2024-09-16
-Commit 4 made on 2024-09-16
-Commit 1 made on 2024-10-10
-Commit 2 made on 2024-10-10
-Commit 3 made on 2024-10-10
-Commit 4 made on 2024-10-10
-Commit 1 made on 2024-10-11
-Commit 2 made on 2024-10-11
-Commit 3 made on 2024-10-11
-Commit 4 made on 2024-10-11
-Commit 1 made on 2024-10-12
-Commit 2 made on 2024-10-12
-Commit 3 made on 2024-10-12
-Commit 4 made on 2024-10-12
-Commit 1 made on 2024-10-13
-Commit 2 made on 2024-10-13
-Commit 3 made on 2024-10-13
-Commit 1 made on 2024-10-14
-Commit 2 made on 2024-10-14
-Commit 3 made on 2024-10-14
-Commit 1 made on 2024-10-15
-Commit 1 made on 2024-10-16
-Commit 2 made on 2024-10-16
-Commit 3 made on 2024-10-16
-Commit 4 made on 2024-10-16
-Commit 5 made on 2024-10-16
-Commit 1 made on 2024-10-17
-Commit 2 made on 2024-10-17
-Commit 3 made on 2024-10-17
-Commit 4 made on 2024-10-17
-Commit 1 made on 2024-10-18
-Commit 2 made on 2024-10-18
-Commit 3 made on 2024-10-18
+# What is in this repository
+This repository contains a mirror of my contributions from the University of Twente’s GitLab platform, where I worked on various technical computer science projects. These projects range across several key domains including "Object-oriented programming", "Logic programming", "Operation Systems and Computer architecture", "Network Development" and more.
+
+
+# Why This Mirror Exists 
+The projects were originally developed in a university GitLab repository. By mirroring these contributions to my personal GitHub, I aim to showcase my development journey, problem-solving skills, and the technical knowledge gained while pursuing my degree in Technical Computer Science. This repository provides an open window into my academic projects and showcases how I contributed to complex, real-world problems in computer systems, networks, and security.
+
+# List of Technologies
+This list contains some of the technologies used in the projects, although it might not be a complete list, it outlines most of them.
+- Agile/Scrum Methodologies
+- Java 21,24
+- Python 3
+- HTML/CSS/JavaScript
+- Bash/Shell Scripting
+- Maven
+- Docker
+- LoRaWAN (more specifically TTN)
+- Raspberry Pi development
+- OS customization
+- Flask
+- VPN development
+- Project Deployment
+- Legacy Network Construction
+- Network Protocols
+- JUnit & Mockito
+- SonarCUBE
+- RESTful API Development
+- Custom ALU construction
+- PostgreSQL database management and creation
+- MySQL database management and creation
+- Figma
+
+# What is the activity on this repo
+As mentioned above this repo is a mirror of my university GitLab account, the commits are for illustration purposes showing when the development of each project was. 
